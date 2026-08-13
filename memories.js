@@ -31,7 +31,7 @@ window.ARCHIVE_DATA = {
       number: "01",
       title: "Little Moments",
       subtitle: "The small things that made me stop and breathe.",
-      coverImage: "memories/img1.jpg",
+      coverImage: "img1.jpg",
       accentColor: "#C4A862"
     },
     {
@@ -39,7 +39,7 @@ window.ARCHIVE_DATA = {
       number: "02",
       title: "People I Remember",
       subtitle: "Faces that changed the shape of my days.",
-      coverImage: "memories/img2.jpg",
+      coverImage: "img2.jpg",
       accentColor: "#8FA8B8"
     },
     {
@@ -47,7 +47,7 @@ window.ARCHIVE_DATA = {
       number: "03",
       title: "Places",
       subtitle: "Corners of the world I carry with me.",
-      coverImage: "memories/img3.jpg",
+      coverImage: "img3.jpg",
       accentColor: "#A89B7A"
     },
     {
@@ -55,7 +55,7 @@ window.ARCHIVE_DATA = {
       number: "04",
       title: "University Days",
       subtitle: "Four years that felt like an entire lifetime.",
-      coverImage: "memories/img6.jpg",
+      coverImage: "img6.jpg",
       accentColor: "#9B7A6A"
     },
     {
@@ -63,7 +63,7 @@ window.ARCHIVE_DATA = {
       number: "05",
       title: "Random Happiness",
       subtitle: "Joy that arrived without asking.",
-      coverImage: "memories/img5.jpg",
+      coverImage: "img5.jpg",
       accentColor: "#B8967A"
     },
     {
@@ -71,7 +71,7 @@ window.ARCHIVE_DATA = {
       number: "06",
       title: "Things I Don't Want To Forget",
       subtitle: "Held here, so I never lose them.",
-      coverImage: "memories/img4.jpg",
+      coverImage: "img4.jpg",
       accentColor: "#7A8B6E"
     }
   ],
@@ -81,7 +81,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m01",
       collection: "little-moments",
-      image: "memories/img1.jpg",
+      image: "img1.jpg",
       title: "Afternoon Light",
       date: "14 March 2025",
       location: "Tashkent",
@@ -93,7 +93,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m02",
       collection: "little-moments",
-      image: "memories/img4.jpg",
+      image: "img4.jpg",
       title: "The Pressed Flowers",
       date: "02 May 2025",
       location: "Home",
@@ -105,7 +105,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m03",
       collection: "little-moments",
-      image: "memories/img5.jpg",
+      image: "img5.jpg",
       title: "That Evening",
       date: "17 October 2025",
       location: "Lake Shore",
@@ -117,7 +117,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m04",
       collection: "people",
-      image: "memories/img2.jpg",
+      image: "img2.jpg",
       title: "A Quiet Corner",
       date: "08 January 2025",
       location: "The Old Café",
@@ -129,7 +129,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m05",
       collection: "people",
-      image: "memories/img3.jpg",
+      image: "img3.jpg",
       title: "Walking Together",
       date: "21 June 2024",
       location: "Old City",
@@ -141,7 +141,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m06",
       collection: "places",
-      image: "memories/img3.jpg",
+      image: "/img3.jpg",
       title: "The Cobblestones",
       date: "30 July 2024",
       location: "Old Quarter",
@@ -153,7 +153,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m07",
       collection: "places",
-      image: "memories/img5.jpg",
+      image: "img5.jpg",
       title: "The Water at Dusk",
       date: "11 September 2025",
       location: "Somewhere south",
@@ -165,7 +165,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m08",
       collection: "university",
-      image: "memories/img6.jpg",
+      image: "img6.jpg",
       title: "The Lecture Hall",
       date: "03 September 2022",
       location: "First Year",
@@ -177,7 +177,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m09",
       collection: "university",
-      image: "memories/img2.jpg",
+      image: "img2.jpg",
       title: "Late Night Sessions",
       date: "15 December 2023",
       location: "Library",
@@ -189,7 +189,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m10",
       collection: "random-happiness",
-      image: "memories/img4.jpg",
+      image: "img4.jpg",
       title: "Found Beauty",
       date: "22 April 2025",
       location: "Everywhere",
@@ -201,7 +201,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m11",
       collection: "random-happiness",
-      image: "memories/img1.jpg",
+      image: "img1.jpg",
       title: "Golden Hour Again",
       date: "07 August 2025",
       location: "Balcony",
@@ -213,7 +213,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m12",
       collection: "dont-forget",
-      image: "memories/img4.jpg",
+      image: "img4.jpg",
       title: "This Exact Feeling",
       date: "31 December 2024",
       location: "Home",
@@ -225,7 +225,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m13",
       collection: "dont-forget",
-      image: "memories/img5.jpg",
+      image: "img5.jpg",
       title: "The Last Light",
       date: "20 November 2025",
       location: "Hillside",
