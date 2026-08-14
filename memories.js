@@ -1,7 +1,7 @@
 /**
  * ╔══════════════════════════════════════════╗
- * ║  BEKZOD'S ARCHIVE — Memory Data          ║
- * ║  Edit this file to manage your memories  ║
+ * ║  BEKZOD QUDRATOV — XOTIRALAR             ║
+ * ║  Bugungi kunimdan  Xursandman   :)       ║
  * ╚══════════════════════════════════════════╝
  *
  * HOW TO ADD A MEMORY:
