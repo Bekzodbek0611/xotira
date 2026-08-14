@@ -54,15 +54,15 @@ window.ARCHIVE_DATA = {
       id: "Univer",
       number: "04",
       title: "1 kusrdan esdalik",
-      subtitle: "bu insonlar ajib o'zgacha",
+      subtitle: "bu insonlar ajib o'zgacha 🎬",
       coverImage: "img6.jpg",
       accentColor: "#9B7A6A"
     },
     {
       id: "tassodiflar",
       number: "05",
-      title: "shunchaki tassadif",
-      subtitle: "Tassodif tufayli o'zgargan hayoting ",
+      title: "HECH QACHON TASSODIFLAR TASSODIFAN BO'LMAYDI",
+      subtitle: "Tassodif tufayli o'zgargan hayoting 🎯 ",
       coverImage: "img5.jpg",
       accentColor: "#B8967A"
     },
@@ -70,7 +70,7 @@ window.ARCHIVE_DATA = {
       id: "eslatma",
       number: "06",
       title: "Unutishni hohlamaydigan kunlarim ",
-      subtitle: "Bu kunlar unitilmas .",
+      subtitle: "Bu kunlar unitilmas ✨.",
       coverImage: "img4.jpg",
       accentColor: "#7A8B6E"
     }
@@ -80,13 +80,13 @@ window.ARCHIVE_DATA = {
   memories: [
     {
       id: "m01",
-      collection: "little-moments",
+      collection: "yoshlik",
       image: "img1.jpg",
-      title: "Afternoon Light",
-      date: "14 March 2025",
-      location: "Tashkent",
-      description: "The light came through the curtains at exactly the right angle. I stayed there for a while, not moving. Just watching it.",
-      note: "Some light is too good to ignore.",
+      title: "BU MEN :) ",
+      date: "2008 yil ",
+      location: "Termiz",
+      description: "Men 1 yoshdaman  tassavur qiling a  1 yosh. sab-sariq bolakay .😎",
+      note: "Dunyo go'zal :).",
       highlight: true,
       palette: "warm"
     },
