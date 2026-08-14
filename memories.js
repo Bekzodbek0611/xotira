@@ -141,7 +141,7 @@ window.ARCHIVE_DATA = {
     {
       id: "m06",
       collection: "places",
-      image: "/img3.jpg",
+      image: "img3.jpg",
       title: "The Cobblestones",
       date: "30 July 2024",
       location: "Old Quarter",
