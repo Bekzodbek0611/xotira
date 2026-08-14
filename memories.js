@@ -80,7 +80,7 @@ window.ARCHIVE_DATA = {
   memories: [
     {
       id: "m01",
-      collection: "yoshlik",:)
+      collection: "yoshlik",
       image: "img1.jpg",
       title: "BU MEN :) ",
       date: "2008 yil ",
@@ -92,7 +92,7 @@ window.ARCHIVE_DATA = {
     },
      {
       id: "m01",
-      collection: "yoshlik",:)
+      collection: "yoshlik",
       image: "img7.jpg",
       title: "bu yigitcha kamina😤  ",
       date: "2008 yil ",
@@ -104,7 +104,7 @@ window.ARCHIVE_DATA = {
      },
      {
       id: "m01",
-      collection: "yoshlik",:)
+      collection: "yoshlik",
       image: "img8.jpg",
       title: "kichkina biznesmen💰 ",
       date: "2016 yil ",
@@ -116,7 +116,7 @@ window.ARCHIVE_DATA = {
      },
     {
       id: "m01",
-      collection: "yoshlik",:)
+      collection: "yoshlik",
       image: "img9.jpg",
       title: "4 sinfni  ham tugatib qoldik",
       date: "2018 yil ",
@@ -139,7 +139,7 @@ window.ARCHIVE_DATA = {
       palette: "warm"
     },
     {
-      id: "m03",
+      id: "m02",
       collection: "little-moments",
       image: "img5.jpg",
       title: "That Evening",
