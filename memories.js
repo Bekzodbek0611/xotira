@@ -90,6 +90,42 @@ window.ARCHIVE_DATA = {
       highlight: true,
       palette: "warm"
     },
+     {
+      id: "m01",
+      collection: "yoshlik",
+      image: "img7.jpg",
+      title: "bu yigitcha kamina😤  ",
+      date: "2008 yil ",
+      location: "Termiz",
+      description: "bo'lajak milliarder",
+      note: "pul sanashni o'rganayotgan kichik biznesmen.💸",
+      highlight: true,
+      palette: "warm"
+     },
+     {
+      id: "m01",
+      collection: "yoshlik",
+      image: "img8.jpg",
+      title: "kichkina biznesmen💰 ",
+      date: "2016 yil ",
+      location: "Termiz",
+      description: "maktab davri",
+      note: "maktab bu esda qolarli joylardan biri",
+      highlight: true,
+      palette: "warm"
+     },
+    {
+      id: "m01",
+      collection: "yoshlik",
+      image: "img9.jpg",
+      title: "4 sinfni  ham tugatib qoldik",
+      date: "2018 yil ",
+      location: "Termiz",
+      description: "maktab davri",
+      note: "maktab bu -katta hayot uchun sakrashga tayyorgarlik maskani ",
+      highlight: true,
+      palette: "warm"
+     },
     {
       id: "m02",
       collection: "little-moments",
