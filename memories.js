@@ -27,50 +27,50 @@ window.ARCHIVE_DATA = {
   // ─── COLLECTIONS ───────────────────────────────────────────────
   collections: [
     {
-      id: "little-moments",
+      id: "yoshligim beg'uborligim",
       number: "01",
-      title: "Little Moments",
-      subtitle: "The small things that made me stop and breathe.",
+      title: "Ajib hotiralar",
+      subtitle: "Unitilmas xotiralar",
       coverImage: "img1.jpg",
       accentColor: "#C4A862"
     },
     {
-      id: "people",
+      id: "Do'stlar",
       number: "02",
-      title: "People I Remember",
-      subtitle: "Faces that changed the shape of my days.",
+      title: "Mening do'stlarim",
+      subtitle: "Ular bilan o'tgan kunlar",
       coverImage: "img2.jpg",
       accentColor: "#8FA8B8"
     },
     {
-      id: "places",
+      id: "men yoqtirgan joylar",
       number: "03",
-      title: "Places",
-      subtitle: "Corners of the world I carry with me.",
+      title: "Joylar",
+      subtitle: "Hayotimni go'zal joylari",
       coverImage: "img3.jpg",
       accentColor: "#A89B7A"
     },
     {
-      id: "university",
+      id: "Univer",
       number: "04",
-      title: "University Days",
-      subtitle: "Four years that felt like an entire lifetime.",
+      title: "1 kusrdan esdalik",
+      subtitle: "bu insonlar ajib o'zgacha",
       coverImage: "img6.jpg",
       accentColor: "#9B7A6A"
     },
     {
-      id: "random-happiness",
+      id: "tassodiflar",
       number: "05",
-      title: "Random Happiness",
-      subtitle: "Joy that arrived without asking.",
+      title: "shunchaki tassadif",
+      subtitle: "Tassodif tufayli o'zgargan hayoting ",
       coverImage: "img5.jpg",
       accentColor: "#B8967A"
     },
     {
-      id: "dont-forget",
+      id: "eslatma",
       number: "06",
-      title: "Things I Don't Want To Forget",
-      subtitle: "Held here, so I never lose them.",
+      title: "Unutishni hohlamaydigan kunlarim ",
+      subtitle: "Bu kunlar unitilmas .",
       coverImage: "img4.jpg",
       accentColor: "#7A8B6E"
     }
